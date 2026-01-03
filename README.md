@@ -1,10 +1,12 @@
 TamperMonkey user script
 
 -- Download ACSM files from eReolen.dk-0.1.user.js
+    
     Used to download ACSM files from ebooks lend on eReolen.dk
     ACSM files are supported by Adobe Digital Editions
 
 -- Aula.dk Vikar-statistik-3.0-user.js
+    
     Adds a menu option to the default menu on aula.dk (after login)
     Clicking on the menu and the script will gather statistics about subsitution lessions and displays this as on overlay on the site
     The data gathering process takes a few seconds per child, so have a bit of pations.
