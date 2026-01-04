@@ -9,7 +9,7 @@ TamperMonkey user script
     
     Adds a menu option to the default menu on aula.dk (after login)
     Clicking on the menu and the script will gather statistics about subsitution lessions and displays this as on overlay on the site
-    The data gathering process takes a few seconds per child, so have a bit of pations.
+    The data gathering process takes a few seconds per child, so have a bit of patience.
 
     Format:
     Barn 	Måned 	    Lektioner 	Vikar 	%
